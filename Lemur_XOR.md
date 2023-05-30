@@ -32,7 +32,7 @@ cv2.destroyAllWindows()
 
 Running the code and we see
 
-![screenshot]('https://github.com/Naooooooooooooo/CRYPTOHACK/blob/main/Screenshot%202023-05-30%20201221.png')
+![screenshot]('Screenshot 2023-05-30 201221.png')
 
 So our flag is:
 
