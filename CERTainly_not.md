@@ -1,6 +1,6 @@
 # CERTainly not
 
-The challenge give us a .der file ![der file](https://cryptohack.org/static/challenges/2048b-rsa-example-cert_3220bd92e30015fe4fbeb84a755e7ca5.der)
+The challenge give us a .der file [2048b-rsa-example-cert_3220bd92e30015fe4fbeb84a755e7ca5](https://cryptohack.org/static/challenges/2048b-rsa-example-cert_3220bd92e30015fe4fbeb84a755e7ca5.der)
 
 It told us to find the modulus of the certificate in decimal
 
