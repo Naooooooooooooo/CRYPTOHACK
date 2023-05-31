@@ -31,8 +31,8 @@ Result
 
 Then i found a subdomain that seems to be the answer
 
-![subdomain](./b)
+![subdomain](./b,png)
 
 Visit the site the i get the flag
 
-![flag](./c)
+![flag](./c.png)
