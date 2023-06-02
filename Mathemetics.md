@@ -86,7 +86,7 @@ The fourth challenge told us to Calculate `273246787654^65536 mod 65537` and `65
 
 Euler'theorem
 
-![Euler'theorem](./euler_theorem)
+![Euler'theorem](./euler_theorem.png)
 
 So the answer is `1`
 
